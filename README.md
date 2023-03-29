@@ -4,7 +4,7 @@ Essa é uma página em React que representa a primeira parte de um aplicativo Fu
 
 ![preview](.github/preview.png)
 
-Aplicação que consiste em configurar os projetos front-end e back-end no ar com o Heroku, utilizando o Docker em ambiente de produção.
+Aplicação que consiste em configurar os projetos front-end e back-end no ar com o Heroku, utilizando o Docker em ambiente de produção, nessa parte do frontend, trata-se de um frontend bem simples que vai se comunicar com a nossa API.
 
 ## 🚀 Tecnologia
 
