@@ -10,6 +10,12 @@ Aplicação que consiste em configurar os projetos front-end e back-end no ar co
 
 - ⚡ React é uma biblioteca JavaScript de código aberto focada na criação de interfaces de usuário em páginas da web.
 
+- ⚡ JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma.
+
+- ⚡ HTML é a linguagem base para se desenvolver qualquer site. 
+
+- ⚡ CSS é uma linguagem de folha de estilo composta por “camadas”, criado com o propósito de estilizar as páginas HTML.
+
 - ⚡ Node.js é um ambiente de execução JavaScript que permite executar aplicações desenvolvidas com a linguagem de forma autônoma, sem depender de um         navegador.
 
 ## ✋🏻 Pré-requisitos
