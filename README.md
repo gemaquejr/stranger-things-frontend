@@ -14,12 +14,6 @@ Aplicação que consiste em configurar os projetos front-end e back-end no ar co
 
 - ⚡ MySQL Workbench é uma ferramenta de design de banco de dados visual que integra desenvolvimento SQL, administração, design de banco de dados, criação     e manutenção em um único ambiente de desenvolvimento integrado para o sistema de banco de dados MySQL.
 
-- ⚡ Mocha é um Framework de teste JavaScript para programas Node.js.
-
-- ⚡ Chai é uma biblioteca de afirmação BDD/TDD para Node e para o navegador, que pode ser equiparada com qualquer framework de testes de JavaScript.
-
-- ⚡ Sinon é uma biblioteca que fornece diversas funcionalidades (como mocks, spies e stubs) que facilitam os desenvolvimentos de testes no JavaScript.
-
 ## ✋🏻 Pré-requisitos
 
 - [git](https://git-scm.com/downloads): Ferramenta para gerenciar o código-fonte
