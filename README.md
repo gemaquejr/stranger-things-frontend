@@ -1,6 +1,8 @@
 # Stranger Things (Frontend)
 
-Esse é um aplicativo Full-Stack que lista os personagens da série no mundo real e no mundo invertido.
+Essa é uma página em React que representa a primeira parte de um aplicativo Full-Stack que lista os personagens da série no mundo real e no mundo invertido.
+
+![preview](.github/preview.png)
 
 Aplicação que consiste em configurar os projetos front-end e back-end no ar com o Heroku, utilizando o Docker em ambiente de produção.
 
@@ -26,14 +28,14 @@ Aplicação que consiste em configurar os projetos front-end e back-end no ar co
 
 ## :hammer_and_wrench: Antes de iniciar o projeto.
 
-No diretório do projeto, inicialize o projeto e instale as dependências:
-
-### `Rodando a aplicação com o Docker:`
-
-Na pasta app do projeto, suba o container store_manager utilizando o docker-compose.yml. Utilize o comando:
-
-   - `npm run compose:up:dev`
+No diretório do projeto, instale as dependências e inicialize o projeto:
 
 ### `npm install`
 
 Instala as dependências.
+
+### `npm start`
+
+Executa o aplicativo no modo de desenvolvimento.
+
+Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo em seu navegador.
